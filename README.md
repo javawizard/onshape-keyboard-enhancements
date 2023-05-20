@@ -19,9 +19,9 @@ Then open the [JOKE userscript file](https://raw.githubusercontent.com/javawizar
 
 ![Installation screenshot](install-screenshot.png)
 
-Click the "Install" button. (It may take you to a blank page; don't worry, it still installed successfully.)
+Click the "Install" button. (It may take you to a blank page; don't worry, the install still completed successfully.)
 
-Then head on over to [cad.onshape.com](https://cad.onshape.com) as you normally would. Open a document, then try pressing <kbd>shift</kbd> + <kbd>8</kbd> and then <kbd>shift</kbd> + <kbd>9</kbd> to confirm everything's working as it should be - and you're off to the races!
+Then head on over to [cad.onshape.com](https://cad.onshape.com) as you normally would (and refresh any existing Onshape tabs you have open). Open a document, then try pressing <kbd>shift</kbd> + <kbd>8</kbd> and then <kbd>shift</kbd> + <kbd>9</kbd> to confirm everything's working as it should be - and you're off to the races!
 
 ## Bugs
 
