@@ -1,9 +1,5 @@
 # Javawizard's Onshape Keyboard Enhancements
 
-Because I couldn't resist the acronym 😉
-
-## Introduction
-
 Javawizard's Onshape Keyboard Enhancements is a Tampermonkey script (read: simplified browser extension) that adds some additional keyboard shortcuts to Onshape.
 
 JOKE adds the following keyboard shortcuts:
@@ -22,4 +18,12 @@ First, install the [Tampermonkey browser add-on for Chrome](https://chrome.googl
 Then open the [JOKE userscript file](https://raw.githubusercontent.com/javawizard/onshape-keyboard-enhancements/main/joke.user.js). If you've installed Tampermonkey correctly, it should prompt you to install it as a userscript:
 
 ![Installation screenshot](install-screenshot.png)
+
+Click the "Install" button (it may take you to a blank page; don't worry, it still installed successfully).
+
+Then head on over to [cad.onshape.com](https://cad.onshape.com) as you normally would. Open a document, then try pressing <kbd>shift</kbd> + <kbd>8</kbd> and then <kbd>shift</kbd> + <kbd>9</kbd> to confirm everything's working as it should be - and you're off to the races!
+
+## Bugs
+
+Feel free to [open an issue](https://github.com/javawizard/onshape-keyboard-enhancements/issues) if you discover any bugs or if you have any enhancement requests.
 
