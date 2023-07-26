@@ -2,7 +2,7 @@
 // @name         Javawizard's Onshape Keyboard Enhancements
 // @namespace    https://github.com/javawizard/onshape-keyboard-enhancements
 // @description  A Tampermonkey script that adds some useful keyboard shortcuts to Onshape, like shift + 9 to flip to trimetric view
-// @version      0.2
+// @version      0.3
 // @downloadURL  https://raw.githubusercontent.com/javawizard/onshape-keyboard-enhancements/main/joke.user.js
 // @author       Alex Boyd (javawizard)
 // @match        https://cad.onshape.com/*
