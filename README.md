@@ -6,7 +6,6 @@ JOKE adds the following keyboard shortcuts:
 
 - <kbd>shift</kbd> + <kbd>8</kbd>: Switch to **Dimetric** view (analogous to Onshape's native <kbd>shift</kbd> + <kbd>7</kbd> for Isometric view)
 - <kbd>shift</kbd> + <kbd>9</kbd>: Switch to **Trimetric** view (ditto)
-- <kbd>⌘</kbd> + <kbd>shift</kbd> + <kbd>P</kbd> (mac) or <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>P</kbd> (windows): Open the tool **search bar**. This is the keyboard shortcut [Visual Studio Code](https://code.visualstudio.com/) uses for the same thing and is equivalent to Onshape's native <kbd>⌥</kbd> + <kbd>C</kbd> which I can never seem to remember.
 - <kbd>⌘</kbd> + <kbd>enter</kbd> (mac) or <kbd>ctrl</kbd> + <kbd>enter</kbd> (windows): **Commit the current feature.** This is the same as just pressing <kbd>enter</kbd> except that it also works when sketching (where the Enter key is normally intercepted to commit sketch features like dimensions and seemingly can't be used to commit the sketch itself).
 
 With more to come. (Open an issue if there are any others you'd like to see!)
