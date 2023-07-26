@@ -57,19 +57,6 @@
 
       window.$('div.os-graphics-dropdown').click(); // click the cube dropdown menu
       window.$('li.context-menu-item:contains("Trimetric")').mouseup(); // click "trimetric"
-    } else if (commandOrControlKey && event.shiftKey && event.code == 'KeyP') {
-      // Press cmd (on mac) or ctrl (on windows) + shift + P to open the tool search bar
-      // This is Visual Studio Code's keyboard shortcut for the same thing, and I cannot
-      // for the life of me train my fingers to use Onshape's native option + C shortcut.
-      // Userscripts to the rescue!
-      //
-      // Note that the "search tools..." button must be visible since we're opening the
-      // search dialog by clicking it. Ideally we'd fire a synthetic option + C keypress
-      // instead but I can't seem to find the right combination of target element +
-      // synthetic event attributes to get Onshape to open the search bar. TODO: revisit
-      // this...
-
-      window.$('.command-search-trigger').click(); // click the "search tools..." button
     } else if (commandOrControlKey && event.code == 'Enter') {
       // Press cmd (on mac) or ctrl (on windows) + Enter to save/commit the current feature.
       // This is the same as just pressing "Enter" except that it also works when sketching
